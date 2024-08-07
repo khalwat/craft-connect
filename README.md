@@ -1,4 +1,10 @@
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/nystudio107/craft-connect/badges/quality-score.png?b=v1)](https://scrutinizer-ci.com/g/nystudio107/craft-connect/?branch=v1) [![Code Coverage](https://scrutinizer-ci.com/g/nystudio107/craft-connect/badges/coverage.png?b=v1)](https://scrutinizer-ci.com/g/nystudio107/craft-connect/?branch=v1) [![Build Status](https://scrutinizer-ci.com/g/nystudio107/craft-connect/badges/build.png?b=v1)](https://scrutinizer-ci.com/g/nystudio107/craft-connect/build-status/v1) [![Code Intelligence Status](https://scrutinizer-ci.com/g/nystudio107/craft-connect/badges/code-intelligence.svg?b=v1)](https://scrutinizer-ci.com/code-intelligence)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+# DEPRECATED
+
+This Craft CMS plugin is no longer supported or maintained, but it is fully functional, and you may continue to use it as you see fit. The license also allows you to fork it and make changes as needed for legacy support reasons.
+
+Instead, use [Craft's native functionality](https://nystudio107.com/blog/connecting-to-an-external-database-in-craft-cms) for querying an external database.
 
 # Connect plugin for Craft CMS
 
